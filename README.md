@@ -1,6 +1,5 @@
 
-# Spacial Transcriptomics
-## Please note: This Readme is a work in progress..
+# Punkst Spatial Transcriptomics
 
 This repository combines **punkst** (scalable tools for analyzing high-resolution spatial transcriptomics data) and **FICTURE** (fast image-based clustering and transcriptomics utility).  
 It provides a unified framework for preprocessing, analyzing, and visualizing spatial transcriptomics data at scale.
